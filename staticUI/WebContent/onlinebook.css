@@ -1,0 +1,66 @@
+@charset "ISO-8859-1";
+
+body{
+	background-image : url("https://image.freepik.com/free-photo/front-view-pile-books-with-copy-space_23-2148255858.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.welcome{
+	padding-top:80px;
+	padding-bottom:40px;
+	padding-left:40px;
+	font-family: 'Lemonada', cursive;
+	
+}
+.OBS{
+   font-family: 'Rowdies', cursive;
+
+}
+.login{
+	padding-top:80px;
+	padding-bottom:40px;
+	padding-left:40px;
+}
+.reset{
+	margin-left:15%;
+}
+.cp{
+	margin-left:2%;
+}
+.fm{
+	margin-left:10%;
+}
+.add{
+	margin-left:19%;
+}
+.upname{
+	margin-left:25%;
+}
+.upadd{
+	margin-left:20%;
+}
+.upcn{
+	margin-left:4%;
+}.upid{
+	margin-left:23%;
+}
+.upass{
+	margin-left:17%;
+}
+.catalog{
+	padding-top:30px;
+	padding-bottom:40px;
+	padding-left:1%;
+	font-family: 'Lemonada', cursive;
+}
+.amt{
+	margin-left:26%;
+}
+.DA{
+	margin-left:10%;
+}
+.CN{
+	margin-left:10%;
+}.CCN{
+	margin-left:4%;
+}
